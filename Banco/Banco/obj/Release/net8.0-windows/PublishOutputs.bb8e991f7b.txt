@@ -1,0 +1,5 @@
+C:\Users\Casa\Documents\PROJECTSC#\Banco.exe
+C:\Users\Casa\Documents\PROJECTSC#\Banco.dll
+C:\Users\Casa\Documents\PROJECTSC#\Banco.deps.json
+C:\Users\Casa\Documents\PROJECTSC#\Banco.runtimeconfig.json
+C:\Users\Casa\Documents\PROJECTSC#\Banco.pdb
